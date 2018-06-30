@@ -1,0 +1,12 @@
+C:\Users\ShadowKnightMK4\source\repos\ShutdownShell\ShutdownShell\bin\Release\ShutdownShell.exe.config
+C:\Users\ShadowKnightMK4\source\repos\ShutdownShell\ShutdownShell\bin\Release\ShutdownShell.exe
+C:\Users\ShadowKnightMK4\source\repos\ShutdownShell\ShutdownShell\bin\Release\ShutdownShell.pdb
+C:\Users\ShadowKnightMK4\source\repos\ShutdownShell\ShutdownShell\bin\Release\ShutdownShell.exe.CodeAnalysisLog.xml
+C:\Users\ShadowKnightMK4\source\repos\ShutdownShell\ShutdownShell\bin\Release\ShutdownShell.exe.lastcodeanalysissucceeded
+C:\Users\ShadowKnightMK4\source\repos\ShutdownShell\ShutdownShell\obj\Release\ShutdownShell.csprojResolveAssemblyReference.cache
+C:\Users\ShadowKnightMK4\source\repos\ShutdownShell\ShutdownShell\obj\Release\ShutdownShell.Properties.Resources.resources
+C:\Users\ShadowKnightMK4\source\repos\ShutdownShell\ShutdownShell\obj\Release\ShutdownShell.csproj.GenerateResource.cache
+C:\Users\ShadowKnightMK4\source\repos\ShutdownShell\ShutdownShell\obj\Release\ShutdownShell.csproj.CoreCompileInputs.cache
+C:\Users\ShadowKnightMK4\source\repos\ShutdownShell\ShutdownShell\obj\Release\ShutdownShell.exe
+C:\Users\ShadowKnightMK4\source\repos\ShutdownShell\ShutdownShell\obj\Release\ShutdownShell.pdb
+C:\Users\ShadowKnightMK4\source\repos\ShutdownShell\ShutdownShell\obj\Release\ShutdownShell.MainForm.resources
